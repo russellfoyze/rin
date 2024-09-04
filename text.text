@@ -1,0 +1,11 @@
+disply = inline , block , inline-block , 
+Position = static , relative , absolute, fixed , sticky ,  
+bg- size = cover , contain , auto
+bg-image = url("photo.jpg") css
+
+disply = flex
+flex-direction = row , column
+justify-content =flex-start , flex-end , center , space-evenly ,space-around , space-bwtween
+flex-wrap = wrap
+align-item ,align-contain=no marging
+  
